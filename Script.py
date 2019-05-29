@@ -1,7 +1,7 @@
 """
-HelloWorld.py
+Script.py
 ====================================
-Document créé à 15h25.
+Document créé à 13h22.
 Doc généré par Sphinx2.0.
 """
 import platform
@@ -30,9 +30,8 @@ def modulo(FirstInt, SecondInt):
     
     Parameters
     ----------
-    your_name
-        FirstInt Int indicating the numerator.
-        SecondInt Int indicating the denominatorur.
+    FirstInt    Int indicating the numerator.
+    SecondInt   Int indicating the denominatorur.
     """    
     print(Mod(FirstInt, SecondInt)) 
 
