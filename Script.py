@@ -39,4 +39,4 @@ def modulo(FirstInt, SecondInt):
 
 version()
 confession("Abderrahmen")
-modulo(8, 6)
+modulo(8, 5)
