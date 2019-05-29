@@ -37,5 +37,5 @@ def modulo(FirstInt, SecondInt):
     print(Mod(FirstInt, SecondInt)) 
 
 version()
-confession("AB")
+confession("Abderrahmen")
 modulo(10, 4)
