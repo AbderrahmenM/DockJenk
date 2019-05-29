@@ -31,6 +31,7 @@ def modulo(FirstInt, SecondInt):
     Parameters
     ----------
     FirstInt    Int indicating the numerator.
+    
     SecondInt   Int indicating the denominatorur.
     """    
     print(Mod(FirstInt, SecondInt)) 
