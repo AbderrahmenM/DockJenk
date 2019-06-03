@@ -1,7 +1,7 @@
 """
 Script.py
 ====================================
-Document créé à 15h50.
+Document créé à 11h55.
 Doc généré par Sphinx2.0.
 """
 import platform
@@ -18,7 +18,7 @@ def confession(your_name):
     """
     print("The wise {} loves Python.".format(your_name))
 
-def version():
+def PythonVersion():
     """
     Return the Python version used by this session.
     """
@@ -37,6 +37,6 @@ def modulo(FirstInt, SecondInt):
     """    
     print(Mod(FirstInt, SecondInt)) 
 
-version()
+PythonVersion()
 confession("Abderrahmen")
 modulo(75, 5)
