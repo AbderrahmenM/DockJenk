@@ -7,7 +7,7 @@ Doc généré par Sphinx2.0.
 import platform
 from mod import Mod
 
-def confession(your_name):
+def confessions(your_name):
     """
     Return the most important secret of a person.
     
@@ -38,5 +38,5 @@ def modulo(FirstInt, SecondInt):
     print(Mod(FirstInt, SecondInt)) 
 
 PythonVersion()
-confession("Abderrahmen")
+confessions("Abderrahmen")
 modulo(75, 5)
