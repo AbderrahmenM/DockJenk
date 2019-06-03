@@ -1,7 +1,7 @@
 """
 Script.py
 ====================================
-Document créé à 17h11.
+Document créé à 17h15.
 Doc généré par Sphinx2.0.
 """
 import platform
