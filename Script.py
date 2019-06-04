@@ -1,8 +1,8 @@
 """
 Script.py
 ====================================
-Document créé à 14h46.
-Doc généré par Sphinx2.0.
+File creatend on 4/6/19 at 3 P.M.
+Documentation created by Sphinx2.0.
 """
 import platform
 from mod import Mod
