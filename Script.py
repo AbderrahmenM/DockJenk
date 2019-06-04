@@ -1,7 +1,7 @@
 """
 Script.py
 ====================================
-File creatend on 4/6/19 at 4 PM.
+File created on 4/6/19 at 4 PM.
 Documentation created by Sphinx2.0.
 """
 import platform
