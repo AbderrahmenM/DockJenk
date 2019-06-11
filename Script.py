@@ -38,5 +38,5 @@ def modulo(FirstInt, SecondInt):
     print(Mod(FirstInt, SecondInt)) 
 
 PythonVersion()
-confession("Abderrahmen")
-modulo(75, 5)
+confession("Abderrahmen Mrabet")
+modulo(7, 5)
